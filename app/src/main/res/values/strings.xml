@@ -1,3 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Игра в слова</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="app_name">БКС</string>
+    <string name="backspace">⟵</string>
+    <string name="beginhtml">&lt;html> &lt;head> &lt;style type=text/css> p { color: white; margin-top: 1px; margin-bottom: 1px; padding-left: 5px; padding-right: 5px; } p.center { text-align:center; margin-bottom: 5px; } span.wrong { color:#E53935; } span.ok { color: #43A047 } &lt;/style> &lt;/head> &lt;body></string>
+    <string name="dummy_content">ИГРАТЬ</string>
+    <string name="endhtml">&lt;/body> &lt;/html></string>
+    <string name="enter">⏎</string>
+    <string name="help">"Загадано слово, вам нужно его отгадать.
+Быки - буквы вашего слова, имеющиеся в загаданном на тех же местах.
+Коровы - буквы вашего слова, имеющиеся в загаданном, но в другой позиции.
+Одна буква вашего слова может быть либо одним быком (приоритетнее), либо одной коровой, либо ничем.
+Например, загадано слово КАРА:
+РЕКА - 1 Бык, 2 Коровы (последняя А - бык, Р и К - коровы)
+АРКА - 1 Бык, 3 Коровы (последняя А - бык, первая А,Р и К - коровы
+АААА - 2 Быка, 0 Коров.
+И так далее."</string>
+    <string name="helpme">"Помощь"</string>
+    <string name="lettersChange">Выберите длину слова:</string>
+    <string name="level">Текст уровня</string>
+    <string name="ok">√</string>
+    <string name="question">\?</string>
+    <string name="stat">Welcome to the game!</string>
+    <string name="wrong">x</string>
 </resources>
