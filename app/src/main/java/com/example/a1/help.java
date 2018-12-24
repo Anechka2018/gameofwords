@@ -1,4 +1,4 @@
-package igra.ivanova;
+package com.example.a1;
 import android.os.Bundle;
 import android.support.v7.app.c;
 public class help extends c {
